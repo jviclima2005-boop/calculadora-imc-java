@@ -1,31 +1,18 @@
-# Calculadora de IMC em Java
+## Getting Started
 
-Este é um projeto simples desenvolvido em Java para calcular o IMC (Índice de Massa Corporal) e classificar o resultado.
+Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## 💡 Funcionalidades
+## Folder Structure
 
-* Entrada de peso e altura pelo usuário
-* Cálculo automático do IMC
-* Classificação:
+The workspace contains two folders by default, where:
 
-  * Abaixo do peso
-  * Peso normal
-  * Sobrepeso
-  * Obesidade
+- `src`: the folder to maintain sources
+- `lib`: the folder to maintain dependencies
 
-## 🛠️ Tecnologias utilizadas
+Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-* Java
-* Scanner (entrada de dados)
+> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## ▶️ Como executar
+## Dependency Management
 
-1. Compile o arquivo:
-   javac App.java
-
-2. Execute:
-   java App
-
-## 📌 Objetivo
-
-Praticar estruturas condicionais (`if`, `else if`, `else`) em Java.
+The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
