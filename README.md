@@ -21,10 +21,10 @@ Este é um projeto simples desenvolvido em Java para calcular o IMC (Índice de 
 ## ▶️ Como executar
 
 1. Compile o arquivo:
-   javac App.java
+   javac src/App.java
 
 2. Execute:
-   java App
+   java -cp src App
 
 ## 📌 Objetivo
 
